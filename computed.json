@@ -1,0 +1,4 @@
+{
+  "version": "0.3.2",
+  "computedFiles": ["js/core/home.js", "js/core/title.js"]
+}

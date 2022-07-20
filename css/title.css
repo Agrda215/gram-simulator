@@ -1,0 +1,12 @@
+.orange {
+  color: orange;
+}
+
+span#title {
+  font-size: 37px;
+}
+
+div.titleflex {
+  display: flex;
+  justify-content: center;
+}
